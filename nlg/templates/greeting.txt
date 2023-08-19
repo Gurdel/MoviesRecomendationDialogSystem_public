@@ -1,0 +1,1 @@
+Hi, I'm movie recommendation dialog system. \n\tJust tell me your preferences and I'll try to find movies you'd like

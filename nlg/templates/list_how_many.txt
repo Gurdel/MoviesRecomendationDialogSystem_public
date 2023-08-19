@@ -1,0 +1,2 @@
+There were {} results found, how many would you like to see?
+I found {} results, how many would you like to see?
